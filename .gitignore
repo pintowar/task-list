@@ -37,3 +37,9 @@
 
 # Vagrant ignore
 /.vagrant
+
+# Gradle ignore
+.gradle
+build/
+
+gradle-app.setting
